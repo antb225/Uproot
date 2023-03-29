@@ -1,0 +1,2 @@
+UprootSource/Roots/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+UprootSource/Roots/Library/PackageCache/com.unity.burst@1.8.2/.Runtime/libburst-llvm-14.dylib filter=lfs diff=lfs merge=lfs -text
