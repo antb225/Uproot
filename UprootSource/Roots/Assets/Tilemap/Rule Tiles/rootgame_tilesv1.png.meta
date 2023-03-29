@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: 4de91c980d27c3b458788c55afa10db3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rootgame_tilesv1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 495
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4283da4012a59ad449c85203c38bdb6d
+      internalID: -1178540899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 495
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6a36a207435e24ebcbb8ae14f2c247
+      internalID: 1453942723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 495
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e827b1bfa4ad084ead5b2725a5b5359
+      internalID: -2053918750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 495
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17449a4cdf67ee54e9053f8c348f55ee
+      internalID: -517485691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 495
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f13f16ec57815746ab4451859fc1f9b
+      internalID: 94500601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 495
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051ee019b401dc849bfb0a101dbb133f
+      internalID: 1663308223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 495
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea15d86ee05f044e9aced3b66abacce
+      internalID: -1854517892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 495
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e013e6391375d1408bc525c41c5569d
+      internalID: 63237761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 494
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c157a3b91b9e848b2e5ba7192f6b70
+      internalID: 1874928910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 494
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42efd40d518e9c4d9113695dfe61d80
+      internalID: 238410648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 495
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8.5}
+        - {x: -8, y: 7.5}
+        - {x: 8, y: 7.5}
+        - {x: 8, y: -8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4f6b9a1eb7fe14bae4a191aa8d465b
+      internalID: -110245040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 495
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc82b80ddf18d44d9d2becc9ea3f170
+      internalID: -470100100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 495
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba87c2ef0eff5c94abf51748078f37d8
+      internalID: 231337621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 495
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5303f0c60127baa48878deba39b097f9
+      internalID: -1802479502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_15
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 495
+        width: 17
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -8.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 8.5, y: 7.5}
+        - {x: 8.5, y: -8.5}
+      physicsShape:
+      - - {x: -7.5, y: -8.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 8.5, y: 7.5}
+        - {x: 8.5, y: -8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84cf516a20d9614ab99a1e278769971
+      internalID: 1967272115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b756a37d2763b384da63083a50d91eec
+      internalID: 939630705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c44e42b716a47442902873891ed6355
+      internalID: 1921754098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50a0a6e1868a7843a3a1fd26c35dc2c
+      internalID: -2046673762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6538e799a123c448406238d0b0916f
+      internalID: -1725585557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b165bc4bb7332934f84fa4709344b5b6
+      internalID: -929925722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d14b7b025ad7b34e83f36d9890a938e
+      internalID: 2031560369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_22
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570f881a44b83b24782632839e7448f6
+      internalID: 1256807383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 476
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757d35076563afe40ab7f57f83ed5498
+      internalID: -2083339299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_24
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 476
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f2855a5e69ba04aaf8748e5257d753
+      internalID: 1818844825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_25
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 476
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8053d57f8276443aec00b2d1270439
+      internalID: -1995458091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_26
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83135fc46d0687943a173b9adb40b882
+      internalID: -451125972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_27
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef8ede05e88c144084ba20a41f43b50
+      internalID: -2914537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_28
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 476
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c3af92e9e793a45b6e725afb42461e
+      internalID: 1174221578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_30
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 476
+        width: 17
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 8.5}
+        - {x: 8.5, y: 8.5}
+        - {x: 8.5, y: -7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8201e8a1dca3fc94392fc9f912a37d8c
+      internalID: 896707787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc7aec37fa222244b7444bbde283ad7
+      internalID: 1760377111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bc250b4ebc4b9419cf1df703a3d3b8
+      internalID: -2004019198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_33
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36260191ddba5e489bc67bc6061b06f
+      internalID: -434111248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_34
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 460
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82264655afe9b3749b6effff132eea05
+      internalID: -1239482906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f5d4578cae71643987619980015d56
+      internalID: 1295304461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_36
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3843f0300e0451d498475279d38816a4
+      internalID: 1392650967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_37
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b93e9b3dc0d06f44b07ffe694aa0cd4
+      internalID: 1795524516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 459
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c425dd4330b72c4484bc1caa02d3bd5
+      internalID: 475167344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_39
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 459
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -9}
+        - {x: -9, y: 8}
+        - {x: 9, y: 8}
+        - {x: 9, y: -9}
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb4e88c6a9a2534aa75d47d342d202e
+      internalID: 679910880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_40
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 459
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5929ad0480292e4f8550bb4e0c9a45d
+      internalID: 1597726037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_41
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b470e4f0e8dfe49bf3c9c7cd6001a3
+      internalID: -1024022047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_42
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c0c212a7ccf9345a212ee8f0faee49
+      internalID: -430301222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_43
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 459
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0df7615cbcd324f9bf03f6f75b00da
+      internalID: 363616351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_44
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 459
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323716100c26bfe41abd2acee753e569
+      internalID: 61854668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 441
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e286675e82c2eb4aaab8cb3da7a498b
+      internalID: -1286338716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_48
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 441
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4104c4da068129346a273a59d79858e4
+      internalID: -944733833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_49
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 441
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd25c309c0d5b2945ade35cf2250974a
+      internalID: -1315754458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_50
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 441
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5325d516be3c9b6458c4f8e5c6c3c4cd
+      internalID: 1892787015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_51
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 441
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d572ea345153de44aca8e0877fded38
+      internalID: -742371536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_52
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 441
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214b4a221a25842489b560facacd1ab5
+      internalID: -736368697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_53
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 441
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85ad54e96786344ab5d3d80f1013916
+      internalID: -164554201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_54
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 441
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e66e59321af6c42a018d7919956496
+      internalID: 820596812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 440
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882653cd58dd66442beb719285205176
+      internalID: -857310297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_56
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 440
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18563985bd0ab19418e41e83f87bf9fa
+      internalID: -1209188644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_57
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 440
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de03f132e50bd44ea2c5ec2b12e4b08
+      internalID: 1435628503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_58
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 440
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d12efd179dec9459116184067986c2
+      internalID: 983398302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_59
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 441
+        width: 17
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7.5, y: -7.5}
+        - {x: -7.5, y: 7.5}
+        - {x: 8.5, y: 7.5}
+        - {x: 8.5, y: -7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10db188e599167c42b744a9ece499328
+      internalID: -1489112594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_60
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 441
+        width: 17
+        height: 17
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8.5, y: -8.5}
+        - {x: -8.5, y: 7.5}
+        - {x: 7.5, y: 7.5}
+        - {x: 7.5, y: -8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d827bd09bd92749b9d957b76dbece4
+      internalID: 1712266884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_61
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 423
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1faf2ec5da17ac4395330260830b32c
+      internalID: -1362679212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_62
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 423
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ef6cc1880a086479c5ecd95d26496e
+      internalID: 1566933980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_63
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 423
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fac9a11fdc93b448c94b6fca5bc710
+      internalID: -1834520100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_64
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 423
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f96f053022f704d8f367ef98bacb5d
+      internalID: -1526826680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_65
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 423
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93392b5bbbaa08640b81d8e627d352c9
+      internalID: -653797620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_66
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 423
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42bb3cc4d7f82644be97a173facfaf3
+      internalID: 1661763039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_67
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 423
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb3a1ee4d58d524b9aebc692d35fe43
+      internalID: -1090779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_68
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 423
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931a8efe7ba810a498a247940fdd3a59
+      internalID: 1797074359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 422
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d68dd4afd883e944bcd393455ecdf3c
+      internalID: -1844313575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_70
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 422
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004a2be98566cec44b5fed3ac60139c6
+      internalID: 1843423024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_71
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 422
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      physicsShape:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 9, y: 8}
+        - {x: 9, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b67198cd43dc414c8690eeddfe5bcb6
+      internalID: 1752704760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_72
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 422
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      physicsShape:
+      - - {x: -7, y: -8}
+        - {x: -7, y: 8}
+        - {x: 9, y: 8}
+        - {x: 9, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bef4d1102bb19d4a91b34175f6f7158
+      internalID: -1375754579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 405
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfbde73a352f7c4184094412d96e02d
+      internalID: -1684142286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_74
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 405
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b937805d071046f479331f45e68c581f
+      internalID: -54780790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_75
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 405
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230b495aae5c8cf46a0589762a802174
+      internalID: -60248020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_76
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 405
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8aa7a5cc6faee44ebee2e76ce62fa01
+      internalID: 1252635989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_77
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 405
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8711d3826c6bc4e4db2ca6f26cca124f
+      internalID: 91917561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_78
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 405
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13f18f8f453975449f7626961975d65
+      internalID: -1647160773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_79
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 405
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a153064137588249b3bcdb2b2533e07
+      internalID: 1669406741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_80
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 404
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f1156708a3e9d478241b28bbd7580a
+      internalID: 658681496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 404
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471cdf3bffc07294790af05a89ac9d14
+      internalID: -1738679760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_82
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 489
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -9}
+        - {x: -9, y: 9}
+        - {x: 9, y: 9}
+        - {x: 9, y: -9}
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcce92c9a988374ca379b912efa9fd6
+      internalID: -776386473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_83
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 404
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2de897e701f294b8c763f2f97cf33f
+      internalID: -2064642891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_84
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 404
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a114186b8a15968419a008c06d417dc6
+      internalID: -2114520175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440c577729c31ec4da9d5e2bd5d4f51a
+      internalID: -2290182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_86
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b9c710801c0e849b3e165f070a8079
+      internalID: 2017813243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_87
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4771ee6044551b47a01f26ddca7bc26
+      internalID: -779242995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_88
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3aaa7bcc8cc7384d82a20c2bc9af706
+      internalID: 2033627688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_89
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84949b25f2f198149b1286d27cc5994a
+      internalID: 862537661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_90
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1f48baf80992f45be95e9138438d40
+      internalID: -377582472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 386
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17039cff9390d174692b08d7a66f83e7
+      internalID: 1265659728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_92
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 386
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf803ed698cb2847a7beb744c5173b9
+      internalID: 2039915162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_93
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 386
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ce58e48da76f64e93df2f1c9d5ee32
+      internalID: 492541593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rootgame_tilesv1_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 404
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.10973188, y: 0.90245396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b0b6568e1c0404b9965f38e9f8ef2a
+      internalID: 368157002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      rootgame_tilesv1_21: 2031560369
+      rootgame_tilesv1_45: 768908073
+      rootgame_tilesv1_56: -1209188644
+      rootgame_tilesv1_15: 1967272115
+      rootgame_tilesv1_77: 91917561
+      rootgame_tilesv1_46: -649390773
+      rootgame_tilesv1_47: -1286338716
+      rootgame_tilesv1_51: -742371536
+      rootgame_tilesv1_25: -1995458091
+      rootgame_tilesv1_92: 2039915162
+      rootgame_tilesv1_7: 63237761
+      rootgame_tilesv1_70: 1843423024
+      rootgame_tilesv1_79: 1669406741
+      rootgame_tilesv1_33: -434111248
+      rootgame_tilesv1_8: 1874928910
+      rootgame_tilesv1_17: 1921754098
+      rootgame_tilesv1_16: 939630705
+      rootgame_tilesv1_29: 1938367297
+      rootgame_tilesv1_4: 94500601
+      rootgame_tilesv1_58: 983398302
+      rootgame_tilesv1_14: 368157002
+      rootgame_tilesv1_90: -377582472
+      rootgame_tilesv1_26: -451125972
+      rootgame_tilesv1_91: 1265659728
+      rootgame_tilesv1_12: 231337621
+      rootgame_tilesv1_55: -857310297
+      rootgame_tilesv1_71: 1752704760
+      rootgame_tilesv1_62: 1566933980
+      rootgame_tilesv1_88: 2033627688
+      rootgame_tilesv1_48: -944733833
+      rootgame_tilesv1_0: -1178540899
+      rootgame_tilesv1_20: -929925722
+      rootgame_tilesv1_82: -776386473
+      rootgame_tilesv1_40: 1597726037
+      rootgame_tilesv1_64: -1526826680
+      rootgame_tilesv1_10: -110245040
+      rootgame_tilesv1_3: -517485691
+      rootgame_tilesv1_78: -1647160773
+      rootgame_tilesv1_93: 492541593
+      rootgame_tilesv1_63: -1834520100
+      rootgame_tilesv1_87: -779242995
+      rootgame_tilesv1_9: 238410648
+      rootgame_tilesv1_37: 1795524516
+      rootgame_tilesv1_53: -164554201
+      rootgame_tilesv1_83: -2064642891
+      rootgame_tilesv1_80: 658681496
+      rootgame_tilesv1_59: -1489112594
+      rootgame_tilesv1_31: 1760377111
+      rootgame_tilesv1_28: 1174221578
+      rootgame_tilesv1_73: -1684142286
+      rootgame_tilesv1_38: 475167344
+      rootgame_tilesv1_61: -1362679212
+      rootgame_tilesv1_41: -1024022047
+      rootgame_tilesv1_76: 1252635989
+      rootgame_tilesv1_35: 1295304461
+      rootgame_tilesv1_5: 1663308223
+      rootgame_tilesv1_11: -470100100
+      rootgame_tilesv1_36: 1392650967
+      rootgame_tilesv1_74: -54780790
+      rootgame_tilesv1_27: -2914537
+      rootgame_tilesv1_2: -2053918750
+      rootgame_tilesv1_23: -2083339299
+      rootgame_tilesv1_84: -2114520175
+      rootgame_tilesv1_6: -1854517892
+      rootgame_tilesv1_57: 1435628503
+      rootgame_tilesv1_69: -1844313575
+      rootgame_tilesv1_30: 896707787
+      rootgame_tilesv1_85: -2290182
+      rootgame_tilesv1_19: -1725585557
+      rootgame_tilesv1_65: -653797620
+      rootgame_tilesv1_89: 862537661
+      rootgame_tilesv1_18: -2046673762
+      rootgame_tilesv1_67: -1090779
+      rootgame_tilesv1_34: -1239482906
+      rootgame_tilesv1_13: -1802479502
+      rootgame_tilesv1_75: -60248020
+      rootgame_tilesv1_22: 1256807383
+      rootgame_tilesv1_43: 363616351
+      rootgame_tilesv1_54: 820596812
+      rootgame_tilesv1_86: 2017813243
+      rootgame_tilesv1_81: -1738679760
+      rootgame_tilesv1_66: 1661763039
+      rootgame_tilesv1_32: -2004019198
+      rootgame_tilesv1_44: 61854668
+      rootgame_tilesv1_49: -1315754458
+      rootgame_tilesv1_60: 1712266884
+      rootgame_tilesv1_42: -430301222
+      rootgame_tilesv1_68: 1797074359
+      rootgame_tilesv1_50: 1892787015
+      rootgame_tilesv1_24: 1818844825
+      rootgame_tilesv1_1: 1453942723
+      rootgame_tilesv1_39: 679910880
+      rootgame_tilesv1_72: -1375754579
+      rootgame_tilesv1_52: -736368697
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
